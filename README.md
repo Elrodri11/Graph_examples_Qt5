@@ -11,7 +11,7 @@ Este es un programa que permite visualizar grafos dirigidos utilizando Qt y C++.
 
 1. Clona o descarga este repositorio.
 2. Abre el proyecto en tu entorno de desarrollo preferido.
-3. Ejecuta el programa.
+3. Ejecuta el programa con qmake y make.
 4. Ingresa el grafo en el formato especificado en la sección "Formato de entrada".
 5. Haz clic en el botón "Generate" para generar la visualización del grafo.
 
